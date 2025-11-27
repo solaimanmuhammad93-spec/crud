@@ -1,0 +1,57 @@
+/* Basic Reset */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* --- Header --- */
+.header {
+    background-color: #f7a36f;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* --- Navigation --- */
+.navigation {
+    background-color: #90ee90;
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #777;
+    border-bottom: 1px solid #777;
+}
+
+/* --- Main Container --- */
+.main-container {
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    min-height: 400px;
+}
+
+/* --- Main Content --- */
+.main-content {
+    flex: 3;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+/* --- Sidebar --- */
+.sidebar {
+    flex: 1;
+    background-color: #add8e6;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
+
+/* --- Footer --- */
+.footer {
+    background-color: #90ee90;
+    padding: 15px;
+    text-align: center;
+    border-top: 1px solid #777;
+    color: #333;
+}
