@@ -115,7 +115,7 @@ return [
     | These options configure the behavior of failed queue job logging so you
     | can control how and where failed jobs are stored. Laravel ships with
     | support for storing failed jobs in a simple file or in a database.
-    |
+    |kkjjll
     | Supported drivers: "database-uuids", "dynamodb", "file", "null"
     |
     */
